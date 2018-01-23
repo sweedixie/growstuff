@@ -4,60 +4,65 @@
 [![Coverage Status](https://coveralls.io/repos/Growstuff/growstuff/badge.png)](https://coveralls.io/r/Growstuff/growstuff)
 [![Code Climate](https://codeclimate.com/github/Growstuff/growstuff/badges/gpa.svg)](https://codeclimate.com/github/Growstuff/growstuff)
 
-Welcome to the Growstuff project.
+Growstuff projesine hoşgeldiniz.
 
-Growstuff is an open source/open data project to create a website for
-food gardeners.  We crowdsource information on what our members are
-growing and harvesting, aggregate it, and make it available as open data
-via our API.
+Growstuff yiyecek üreten bahçıvanlarlar için website oluşturan 
+açık kaynaklı/açık verili projedir. Üyelerimizin ne yetiştirdiğini ve hasat ettiğinin
+bilgilerini kitle halinde topluyoruz ve API'miz yardımıyla uygun açık kaynak yapıyoruz.
 
-Growstuff was founded in 2012 and has been built by dozens of
-[contributors](CONTRIBUTORS.md).  We are an inclusive, welcoming project, and
-encourage participation from people of all backgrounds and skill levels.
+Growstuff 2012 yılında kuruldu ve düzinelerce [katkıcının](CONTRIBUTORS.md) yardımıyla yapıldı.
+Kapsayıcı ve samimi bir projeyiz ve her geçmişe, beceri düzeyine sahip kişilerin katılımını 
+teşvik ediyoruz.
 
-## Important links
 
-* [Issues](http://github.com/Growstuff/growstuff/issues) (features we're
-  working on, known bugs, etc)
-* [IRC](https://webchat.freenode.net/) growstuff channel (general chat, brainstorming and troubleshooting) or [Gitter](https://gitter.im/Growstuff/growstuff)
-* [Wiki](https://github.com/Growstuff/growstuff/wiki) (general documentation, etc. Help by migrating from the [old wiki](https://web.archive.org/web/*/wiki.growstuff.org))
+## Önemli Bağlantılar
 
-## For coders
+* [Sorunlar](http://github.com/Growstuff/growstuff/issues) (üzerinde çalıştığımız özellikler,
+bilindik bug'lar, vb.)
+* [IRC](https://webchat.freenode.net/) growstuff kanalı (genel sohbet, beyin fırtınası and çözüm bulma) veya [Gitter](https://gitter.im/Growstuff/growstuff)
+* [Wiki](https://github.com/Growstuff/growstuff/wiki) (genel belgelemeler, vb. [eski wiki] 
+sayfasından taşınarak alındı (https://web.archive.org/web/*/wiki.growstuff.org))
 
-Growstuff is built in Ruby on Rails and also uses JavaScript for
-frontend features. We welcome contributions -- see
-[CONTRIBUTING](CONTRIBUTING.md) for details.
+## Kodlayıcılar için
 
-* To set up your development environment, see [Getting started](https://github.com/Growstuff/growstuff/wiki/New-contributor-guide).
-* We encourage [pair programming](http://wiki.growstuff.org/index.php/Pairing), especially for newer developers.
-* You may also be interested in our [API](https://github.com/Growstuff/growstuff/wiki/API).
+Growstuff Rails üzerinde Ruby'de inşa edildi ve ayrıca önyüz özellikleri 
+için JavaScript kullanıldı. Bağışçıları hoş karşılarız -- detaylar için 
+[KATKIDA BULUNMA](CONTRIBUTING.md) sayfasına bakın.
 
-## For designers, writers, researchers, data wranglers, and other contributors
+* Geliştirme ortamınızını hazırlamak için, [Başlangıç Klavuzu](https://github.com/Growstuff/growstuff/wiki/New-contributor-guide) dosyasına bakın.
 
-There are heaps of ways to get involved and contribute no matter what
-your skills and interests.
+* Özellikle, yeni geliştiricileri [çift programlama](http://wiki.growstuff.org/index.php/Pairing) ile teşvik ediyoruz.
+* Ayrıca [API'miz](https://github.com/Growstuff/growstuff/wiki/API) de ilginizi çekebilir.
 
+## Tasarımcılar, yazarlar, araştırmacılar, veri yapıcılar, ve diğer destekçiler için
+İlgilenmek ve katkı sağlamak için bir çok yol var, ilgi alanınız ve
+yeteneğiniz ne olursa olsun.
+
+Bu bağlantıları kontrol etmek isteyebilirsiniz:
 You might like to check out:
 
-* The [New Contributor Guide](https://github.com/Growstuff/growstuff/wiki/New-contributor-guide)
-  page on our wiki, which has lots of detail for different areas
+* [Yeni Katkı Sağlayan Klavuzu](https://github.com/Growstuff/growstuff/wiki/New-contributor-guide)
+  wiki sayfamız, farklı alanlar için bir çok detay içeriyor.
 
-Here on Github, you might find these useful:
+Github'da kullanışlı bulabilecekleriniz:
 
-* [Waffle](http://waffle.io/Growstuff/growstuff) has stories in "ready" that can be worked on.
-* [needs: design](https://github.com/Growstuff/growstuff/labels/needs:%20design) - tasks requiring high-level design
-* [needs: visual design](https://github.com/Growstuff/growstuff/labels/needs:%20visual design) - tasks requiring visual/graphical design
+* [Waffle](http://waffle.io/Growstuff/growstuff) üzerinde çalışılacak "hazır" hikayeleri var.
+* [needs: design](https://github.com/Growstuff/growstuff/labels/needs:%20design) - yüksek seviye tasarım görevleri
+* [needs: visual design](https://github.com/Growstuff/growstuff/labels/needs:%20visual design) - görsel/grafiksel 
+tasarım görevleri gerektirir
 * [needs: documentation](https://github.com/Growstuff/growstuff/labels/needs:%20documentation)
-* [needs: data](https://github.com/Growstuff/growstuff/labels/needs:%20data) - tasks requiring data entry, data design, data import, or similar
-* [curated:beginner](https://github.com/Growstuff/growstuff/labels/curated:%20beginner) - tasks that are ideal for beginner programmers or people new to the project
+* [needs: data](https://github.com/Growstuff/growstuff/labels/needs:%20data) - veri girişi görevi gerektiri, veri tasarımı, veri içeri aktarımı, veya benzer
+* [curated:beginner](https://github.com/Growstuff/growstuff/labels/curated:%20beginner) - yeni programcılar veya
+projeye yeni olanlar için ideal görevler.
 
-Feel free to comment on any of the issues on [Github](https://github.com/Growstuff/growstuff/issues).
+Herhangi bir sorun gördüğünüzde [Github](https://github.com/Growstuff/growstuff/issues) 
+üzerinden rahatça yorum yapabilirsiniz.
 
-## Contact
+## İletişim
 
-For more information about this project, contact [info@growstuff.org](mailto:info@growstuff.org).
+Bu projeyle ilgili daha çok bilgi için, [info@growstuff.org](mailto:info@growstuff.org) adresine mail atabilisiniz.
 
-Security Issues: If you find an authorization bypass or data breach, please contact our maintainers directly at [maintainers@growstuff.org](mailto:maintainers@growstuff.org).
+Güvenlik Sorunları: Eğer yetkilendirmeyi atlatma veya veri açığı bulursanız lütfen bakımcılarımızla [maintainers@growstuff.org](mailto:maintainers@growstuff.org) adresi üzerinden direk iletişime geçin.  
 
-You can also contact us on [Twitter](http://twitter.com/growstufforg/) or
-[Facebook](https://www.facebook.com/pages/Growstuff/1531133417099494) or [Github](https://github.com/Growstuff/growstuff/issues)..
+Ayrıca bizimle [Twitter](http://twitter.com/growstufforg/),
+[Facebook](https://www.facebook.com/pages/Growstuff/1531133417099494) veya [Github](https://github.com/Growstuff/growstuff/issues) üzerinden iletişime geçebilirsiniz.
